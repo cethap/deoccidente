@@ -37,6 +37,32 @@ body {
   font-family:'Conv_BEBAS',Sans-Serif;
 }
 
+.tituloStrong{
+	font-family:'Conv_BEBAS',Sans-Serif;
+	color: #fff;
+	font-weight: lighter;
+	font-size: 50px;
+}
+
+.tituloBan1{
+	margin-left: 40px;
+	margin-top: 30px;
+}
+
+.tituloBan2{
+    margin-left: 20px;
+    margin-top: 78px;
+}
+
+.tituloBan3{
+    margin-top: 52px;
+    text-align: center;
+}
+.tituloBan4{}
+.tituloBan5{}
+.tituloBan6{}
+
+
 .navbar-red .nav li.dropdown > .dropdown-toggle .caret {
   border-top-color: #ffffff;
   border-bottom-color: #ffffff;
@@ -79,7 +105,7 @@ body {
 
 .navbar .nav > li > a {
   padding: 10px 7px 10px;
-  font-size: 12.8px;
+  font-size: 12px;
 }
 
 
@@ -169,7 +195,7 @@ body {
 #bann2 .space-1 .cont1 .pico {
 	position: absolute;
 	right: -30px;
-	margin-top: 45px;
+	margin-top: 1px;
 }
 
 
@@ -296,6 +322,8 @@ body {
 
 .cont-pico{
 	margin-left: -30px;
+	position: absolute;
+	top: 0;
 }
 
 .tred, .bred{
