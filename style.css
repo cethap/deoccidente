@@ -42,6 +42,7 @@ body {
 	color: #fff;
 	font-weight: lighter;
 	font-size: 50px;
+	line-height: 50px;
 }
 
 .tituloBan1{
@@ -58,9 +59,18 @@ body {
     margin-top: 52px;
     text-align: center;
 }
-.tituloBan4{}
-.tituloBan5{}
-.tituloBan6{}
+.tituloBan4{
+    margin-left: 20px;
+    margin-top: 22px;
+}
+.tituloBan5{
+    margin-left: 20px;
+    margin-top: 54px;
+}
+.tituloBan6{
+    margin-left: 16px;
+    margin-top: 64px;
+}
 
 
 .navbar-red .nav li.dropdown > .dropdown-toggle .caret {
@@ -150,6 +160,7 @@ body {
 #bann1 .space-1 .cont2 .pico {
 	margin-left: -30px;
 	margin-top: 45px;
+	position: absolute;
 }
 
 #bann2{
@@ -255,7 +266,7 @@ body {
 #bann3 .space-2 .cont1 .pico {
 	position: absolute;
 	right: 0px;
-	margin-top: 100px;
+	margin-top: 15px;
 }
 
 
@@ -316,7 +327,7 @@ body {
 #bann4 .space-2 .cont1 .pico {
 	position: absolute;
 	right: -2px;
-	margin-top: 100px;
+	margin-top: 56px;
 }
 
 
